@@ -21,7 +21,7 @@ const HomePage = () => {
         {/* Left: Logo */}
         <Box>
           <Typography variant="h6" fontWeight="bold">
-            Shriram Jewellers
+            shree ram Jewellers
           </Typography>
         </Box>
 
