@@ -14,7 +14,6 @@ function App(){
       <Routes>
         <Route path="/" element={<Home />} />
        
-        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/:category/:subcategory" element={<Products />} />
         <Route path="/category" element={<Category1 />} />
       </Routes>
